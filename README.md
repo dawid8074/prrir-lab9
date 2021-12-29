@@ -1,1 +1,1 @@
-Mandelbrot na cpu i gpu. Jak widać na gpu obrazek geneowany jest znacznie szybciej niezależnie od ilości wątków. Jednak mozna też zauważyć że im więcej wątków tym obrazek ejst generowany szybciej. Pokazuje to wykres oraz tabelka
+Mandelbrot na cpu i gpu. Jak widać na gpu obrazek geneowany jest znacznie szybciej niezależnie od ilości wątków. Jednak mozna też zauważyć że im więcej wątków tym obrazek ejst generowany szybciej. Pokazuje to wykres oraz tabelka zawarta obok kodu
